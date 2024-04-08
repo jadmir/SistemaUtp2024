@@ -5,7 +5,7 @@ A Quasar Project
 ## Install the version
 
 ```v18.18.0
-
+v18.18.0
 ```
 
 ### Install the dependencies
